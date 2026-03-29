@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sonali Mishra</h1>
 <h3 align="center">A passionate AI/ML Engineer from India, focused on building intelligent and automated solutions.</h3>
 <p align="center">
-<div class="bg-blue-500 flex justify-center items-center min-h-screen">
-<img width="896" height="896" alt="momtocat" src="https://github.com/user-attachments/assets/53ff1b18-17bf-4fdd-b26e-401500112a57" />
+<div class="justify-center items-center min-h-screen">
+<img width="600" height="600" alt="momtocat" src="https://github.com/user-attachments/assets/53ff1b18-17bf-4fdd-b26e-401500112a57" />
 </div>
 </p>
 <!-- <p align="left"> 
