@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI/ML Engineer from India, focused on building intelligent and automated solutions.</h3>
 <div class="flex justify-center items-center min-h-screen bg-blue-500">
   <img src="https://github.com/user-attachments/assets/53ff1b18-17bf-4fdd-b26e-401500112a57" 
-       width="400" height="400" 
+       width="600" height="400" 
        alt="momtocat"/>
 </div>
 
