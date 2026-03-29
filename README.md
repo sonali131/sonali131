@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sonali Mishra</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+<h3 align="center">A passionate AI/ML Engineer from India, focused on building smart and automated solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali131&label=Profile%20views&color=0e75b6&style=flat" alt="sonali131" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 🤝 I’m looking for help with **Devops**
+- 🤝 I’m looking for help with **AI/ML/AI Automation/ETL Pipeline**
 
 - 👨‍💻 All of my projects are available at [https://sonali-portfolio-nine.vercel.app/](https://sonali-portfolio-nine.vercel.app/)
 
-- 💬 Ask me about **Devops,Java,Sql**
+- 💬 Ask me about **Automation,Java,Sql**
 
 - 📫 How to reach me **mishrasonali1198@gmail.com**
 
