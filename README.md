@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sonali Mishra</h1>
 <h3 align="center">A passionate AI/ML Engineer from India, focused on building intelligent and automated solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonali131&label=Profile%20views&color=0e75b6&style=flat" alt="sonali131" /> </p>
+<p align="left"> <img width="58" height="87" alt="Screenshot 2026-03-29 194431" src="https://github.com/user-attachments/assets/d3d1a1a5-7247-46de-bdfa-b5c490d84e8c" alt="sonali131" />
+ </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonali131" alt="sonali131" /></a> </p>
 
