@@ -72,8 +72,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonali131&theme=radical" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonali131&theme=radical&utcOffset=5.5" />
+    <img 
+    src="https://github.com/user-attachments/assets/ba626e14-b61b-445f-b35d-df039b3c26ad" 
+    width="200" 
+    style="border-radius:15px;"
+  />
 </p>
 <br>
 
