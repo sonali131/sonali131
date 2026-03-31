@@ -60,13 +60,20 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sonali131&layout=compact&theme=radical" />
 </p>
 
-<h3 align="center">👩‍💻 About Me</h3>
+<h3 align="center">📊 GitHub Insights</h3>
 
 <p align="center">
-Passionate AI/ML Engineer with interest in building scalable automation systems, 
-data pipelines, and intelligent applications. Always learning and exploring new technologies.
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonali131&theme=radical" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonali131&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonali131&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonali131&theme=radical&utcOffset=5.5" />
+</p>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonali131&show_icons=true&locale=en&layout=compact" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sonali131&show_icons=true&locale=en" /></p> -->
