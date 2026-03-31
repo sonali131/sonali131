@@ -5,6 +5,7 @@
        width="500" height="400" 
        alt="momtocat"/>
 </div>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonali131&theme=react-dark" />
 </p>
@@ -12,6 +13,10 @@
 <h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sonali131&theme=radical" />
+</p>
+<!-- New Section-->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=25&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Automation+Enthusiast;Java+%7C+SQL+%7C+Python" />
 </p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonali131" alt="sonali131" /></a> </p>  -->
 
