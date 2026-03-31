@@ -6,7 +6,7 @@
        alt="momtocat"/>
 </div>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sonali131/sonali131/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonali131&theme=react-dark" />
 </p>
 
 <h3 align="center">🏆 GitHub Achievements</h3>
