@@ -29,8 +29,7 @@
 
 - 💬 Ask me about **Automation, Java, SQL, and AI/ML**
 
-- <img src="https://github.com/user-attachments/assets/2ebd4efa-d9ed-4e1a-8edb-dc1379b37a44" width="100" height="100" />
-  📫 How to reach me  
+- 📫 How to reach me  <img src="https://github.com/user-attachments/assets/2ebd4efa-d9ed-4e1a-8edb-dc1379b37a44" width="100" height="100" />
   📧 **mishrasonali1198@gmail.com**
 
 - 📄 Know about my experiences  
