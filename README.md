@@ -45,14 +45,12 @@
 </p>
 
 
-<h3 align="center">📊 GitHub Stats</h3>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonali131&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonali131&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonali131&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sonali131&layout=compact&theme=radical" />
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonali131&show_icons=true&locale=en&layout=compact" /></p>
