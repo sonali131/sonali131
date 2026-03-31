@@ -5,8 +5,9 @@
        width="500" height="400" 
        alt="momtocat"/>
 </div>
+<p align="left"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh" <img src="https://github-profile-trophy.vercel.app/?username=sonali131" alt="sonali131" /> </a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonali131" alt="sonali131" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonali131" alt="sonali131" /></a> </p> -->
 
 - 🌱 I’m currently learning **Spring Framework**
 
