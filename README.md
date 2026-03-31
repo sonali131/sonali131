@@ -6,10 +6,10 @@
        alt="momtocat"/>
 </div>
 
-<p align="left">
-  <a href="https://github-profile-trophy.vercel.app/?username=sonali131">
-    <img src="https://github-profile-trophy.vercel.app/?username=sonali131" alt="sonali131" />
-  </a>
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonali131&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonali131" alt="sonali131" /></a> </p> -->
