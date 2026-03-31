@@ -60,6 +60,14 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sonali131&layout=compact&theme=radical" />
 </p>
 
+<h3 align="center">🚀 Featured Projects</h3>
+
+<p align="center">
+  🔹 <a href="https://github.com/sonali131">AI Automation System</a><br/>
+  🔹 <a href="https://github.com/sonali131">ETL Data Pipeline</a><br/>
+  🔹 <a href="https://github.com/sonali131">Machine Learning Model Deployment</a>
+</p>
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonali131&show_icons=true&locale=en&layout=compact" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sonali131&show_icons=true&locale=en" /></p> -->
