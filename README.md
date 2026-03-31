@@ -29,7 +29,8 @@
 
 - 💬 Ask me about **Automation, Java, SQL, and AI/ML**
 
-- 📫 How to reach me  
+- ![NUX_Octodex](https://github.com/user-attachments/assets/2ebd4efa-d9ed-4e1a-8edb-dc1379b37a44)
+📫 How to reach me  
   📧 **mishrasonali1198@gmail.com**
 
 - 📄 Know about my experiences  
