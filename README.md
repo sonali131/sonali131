@@ -75,6 +75,8 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonali131&theme=radical&utcOffset=5.5" />
 </p>
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonali131&show_icons=true&locale=en&layout=compact" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonali131&show_icons=true&locale=en&layout=compact" /></p>-->
+<img align="right" width="200" height="200" alt="yogitocat" src="https://github.com/user-attachments/assets/ba626e14-b61b-445f-b35d-df039b3c26ad" />
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sonali131&show_icons=true&locale=en" /></p> -->
