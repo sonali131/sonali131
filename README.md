@@ -36,7 +36,7 @@
   🔗 https://drive.google.com/file/d/1ke8UFoje707_LdXAJy0r6n_gs5CwRTST/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
- <img src="https://github.com/user-attachments/assets/2ebd4efa-d9ed-4e1a-8edb-dc1379b37a44" width="100" height="100" />
+ <img src="https://github.com/user-attachments/assets/2ebd4efa-d9ed-4e1a-8edb-dc1379b37a44" width="60" height="60" />
 <p align="left">
 <a href="https://linkedin.com/in/sonali-mishra-4239aa250" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
