@@ -25,7 +25,7 @@
 - 🤝 I’m looking for help with **AI/ML, AI Automation, and ETL Pipelines**
 
 - 👨‍💻 All of my projects are available at  
-  🔗 https://sonali-portfolio-nine.vercel.app/
+  🔗 https://2026-s-onali-prorfolio.vercel.app/
 
 - 💬 Ask me about **Automation, Java, SQL, and AI/ML**
 
