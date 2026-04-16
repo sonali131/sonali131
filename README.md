@@ -51,7 +51,7 @@
 <h3 align="center">Languages & Tools</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,python,tensorflow,pytorch,opencv,js,react,angular,nodejs,spring,docker,kubernetes,jenkins,git,mysql,postgres,mongodb,redis,aws,gcp,firebase,snowflake,salesforce,ai,agent,bootstrap,html,css&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,python,tensorflow,pytorch,opencv,js,react,angular,nodejs,spring,docker,kubernetes,jenkins,git,mysql,postgres,mongodb,redis,aws,gcp,firebase,ai,bootstrap,html,css&perline=10" />
 </p>
 
 
