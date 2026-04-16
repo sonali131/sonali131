@@ -54,6 +54,18 @@
 <img src="https://skillicons.dev/icons?i=java,python,tensorflow,pytorch,opencv,js,react,angular,nodejs,spring,docker,kubernetes,jenkins,git,mysql,postgres,mongodb,redis,aws,gcp,firebase,ai,bootstrap,html,css&perline=10" />
 </p>
 
+<h3 align="center">⚡ Tech Stack</h3>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI/ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonali131&show_icons=true&theme=radical" />
