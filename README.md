@@ -47,6 +47,13 @@
   </a>
 </p>
 
+
+<h3 align="center">Languages & Tools</h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,js,react,angular,nodejs,spring,docker,kubernetes,jenkins,git,mysql,postgres,mongodb,redis,aws,gcp,firebase,bootstrap,html,css&perline=10" />
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <!-- Core Skills -->
