@@ -48,14 +48,18 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/2ebd4efa-d9ed-4e1a-8edb-dc1379b37a44" width="60" height="60" align="center"/>
+  <img src="https://github.com/user-attachments/assets/2ebd4efa-d9ed-4e1a-8edb-dc1379b37a44" width="60" height="60" />
 
-  <a href="https://linkedin.com/in/sonali-mishra-4239aa250" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" align="center"/>
+  &nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/sonali-mishra-4239aa250" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 
-  <a href="https://www.leetcode.com/mishrasonali1198" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" align="center"/>
+  &nbsp;
+
+  <a href="https://www.leetcode.com/mishrasonali1198" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
   </a>
 </p>
 
