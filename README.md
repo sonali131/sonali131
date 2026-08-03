@@ -7,12 +7,12 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonali131&show_icons=true&theme=radical" />
+  <img src="https://github.com/lowlighter/metrics/blob/master/.github/readme/metrics.plugin.isocalendar.svg" />
 </p>
 
 <h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonali131&theme=github_dark&utcOffset=5.5" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonali131&show_icons=true&theme=radical" />
 </p>
 <!-- New Section-->
 <p align="center">
