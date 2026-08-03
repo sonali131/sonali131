@@ -77,12 +77,10 @@
 
 <h3 align="center">📊 GitHub Insights</h3>
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sonali131&theme=radical&no-frame=true&margin-w=15" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%2FML-Engineer-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-Developer-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Spring-Boot-brightgreen?style=for-the-badge" />
 </p>
 
 <h3 align="center">👀 Profile Views</h3>
