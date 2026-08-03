@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonali131&theme=react-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sonali131&show_icons=true&theme=radical&cache_seconds=1800" />
 </p>
 
 <h3 align="center">🏆 GitHub Achievements</h3>
