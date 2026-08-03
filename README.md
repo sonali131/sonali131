@@ -79,8 +79,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20to-Work-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI%2FML-Engineer-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Java-Developer-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Spring-Boot-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pyhton-Developer-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Automation-brightgreen?style=for-the-badge" />
 </p>
 
 <h3 align="center">👀 Profile Views</h3>
