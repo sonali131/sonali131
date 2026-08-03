@@ -76,12 +76,9 @@
 </p>
 
 <h3 align="center">📊 GitHub Insights</h3>
-<h3 align="center">🔥 GitHub Streak</h3>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonali131&theme=radical&hide_border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
-
 <h3 align="center">🏆 GitHub Trophies</h3>
 
 <p align="center">
