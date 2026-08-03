@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/lowlighter/metrics/blob/master/.github/readme/metrics.plugin.isocalendar.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <h3 align="center">🏆 GitHub Achievements</h3>
