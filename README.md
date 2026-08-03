@@ -12,7 +12,7 @@
 
 <h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sonali131&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonali131&theme=github_dark&utcOffset=5.5" />
 </p>
 <!-- New Section-->
 <p align="center">
