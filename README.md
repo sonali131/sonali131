@@ -76,9 +76,9 @@
 </p>
 
 <h3 align="center">📊 GitHub Insights</h3>
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonali131&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sonali131&show_icons=true&theme=radical&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonali131&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
