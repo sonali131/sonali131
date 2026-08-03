@@ -86,8 +86,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonali131&theme=radical" />
 </p>
 
+<h3 align="center">👀 Profile Views</h3>
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sonali131&theme=radical&utcOffset=5.5" />
+  <img src="https://komarev.com/ghpvc/?username=sonali131&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 <br>
 
