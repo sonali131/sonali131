@@ -76,14 +76,16 @@
 </p>
 
 <h3 align="center">📊 GitHub Insights</h3>
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sonali131&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonali131&layout=compact&theme=radical&hide_border=true" />
-</p>
+<h3 align="center">🔥 GitHub Streak</h3>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonali131&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sonali131&theme=radical" />
+  <img src="https://streak-stats.demolab.com?user=sonali131&theme=radical&hide_border=true" />
+</p>
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sonali131&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 <h3 align="center">👀 Profile Views</h3>
