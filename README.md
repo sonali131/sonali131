@@ -73,7 +73,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sonali131&layout=compact&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonali131&theme=radical" alt="Languages Used" />
+  <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sonali131&layout=compact&theme=radical" /> -->
 </p>
 
 <h3 align="center">📊 GitHub Insights</h3>
