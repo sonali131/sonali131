@@ -12,9 +12,8 @@
 
 <h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
-```html
+
 <img src="https://github-readme-stats.vercel.app/api?username=sonali131&show_icons=true&theme=radical" />
-```
 
   <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonali131&show_icons=true&theme=radical" /> -->
 </p>
