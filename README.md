@@ -12,7 +12,7 @@
 
 <h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sonali131&theme=react-dark" alt="Sonali's GitHub Activity Graph" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" alt="Pull Shark Achievement" width="100" />
   <!-- <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonali131&show_icons=true&theme=radical" /> -->
 </p>
 <!-- New Section-->
@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonali131&show_icons=true&theme=radical" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonali131&theme=react-dark" alt="Sonali's GitHub Activity Graph" />
 </p>
 
 <p align="center">
